@@ -1,0 +1,52 @@
+ body{
+
+    margin:0;
+    background:linear-gradient(to left top,lightgreen,pink,lightblue);
+    min-height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+
+    
+
+ }
+ .container{
+    background-color:rgba(255,255,255,.5);
+    width: 30%;
+    padding:20px 20px;
+    text-align:center;
+    border-radius:20px;
+     border: solid 2px antiquewhite;
+     box-shadow: 0 0 10px antiquewhite;
+     font-family: monospace;
+ }
+ .header{
+    color:brown;
+    font-size:30px;
+    font-weight: bold;
+    padding:10px;
+
+    
+ }
+ #text{
+    width:50%;
+    height:20px;
+    background-color:rgba(255,255,255,.5);
+    border-color:rgba(255,255,255,.3);
+    font-size:15px;
+    color:aqua;
+    font-family:monospace;
+    padding:10px;
+    font-weight: bold;
+    border-radius: 5px;
+
+   
+ 
+
+
+ }
+ .meaning-container{
+    display: none;
+
+
+ }
